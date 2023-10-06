@@ -1086,6 +1086,10 @@
     .container-2 {
         padding: 44px 197px;
     }
+    
+    .container-3 {
+        padding: 44px 197px;
+    }
 
     .flora-set {
         justify-content: center;
@@ -1245,6 +1249,40 @@
         padding: 44px 130px;
     }
 
+    .container-3 {
+        padding: 42px 140px;
+    }
+
+    .flowers-we-kontur {
+        margin-left: -66px;
+    }
+
+    .we-one {
+        margin-left: -189px;
+    }
+
+    .we-two {
+        margin-left: -105px;
+    }
+
+    .kontur {
+        width: 107px;
+        margin-top: -30px;
+        margin-left: 20px;
+    }
+
+    .flora-text {
+        margin-left: -109px;
+    }
+
+    .flora-set {
+        margin-left: -29px;
+    }
+
+    .flora-title {
+        margin-left: -102px;
+    }
+
     .we-one {
         margin-left: -134px;
     }
@@ -1259,30 +1297,8 @@
         padding: 65px 1px;
     }
 
-    .kontur {
-        margin-left: -21px;
-    }
-
-    .flora-set {
-        gap: 32px;
-        margin-left: -53px;
-    }
-
-    .flora-title {
-        font-size: 16px;
-        width: 238px;
-    }
-
     .flora-block-title {
         width: 240px;
-    }
-
-    .flora-text {
-        margin-left: -163px;
-    }
-
-    .flora-title {
-        margin-left: -163px;
     }
 
     .about-us-images-gelya {
@@ -1308,15 +1324,23 @@
     .flowers-we-kontur {
         margin-left: -69px;
     }
+
+    .flora-title {
+        width: 221px;
+    }
+
+    .showcase-txt {
+        font-size: 7px;
+    }
 }
 
-@media (max-width:330px){
+@media (max-width:331px){
     .flora-title {
-        margin-left: -163px;
+        margin-left: -111px;
     }
 
     .container-2 {
-        padding: 42px 157px;
+        padding: 42px 152px;
     }
 
     .flowers-we-kontur {
@@ -1330,10 +1354,18 @@
     .we-two {
         margin-left: -105px;
     }
+
+    .flora-set {
+        margin-left: -16px;
+    }
 }
 
 @media (max-width:316px){
     .done-block-sol {
-        height: 670px;
+        height: 680px;
+    }
+
+    .block-price {
+        font-size: 15px;
     }
 }

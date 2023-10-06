@@ -115,9 +115,14 @@ body{
     margin: 0 auto;
 }
 
+.container-3{
+    padding: 50px 220px;
+    margin: 0 auto;
+}
+
 .header{
     min-height: calc(81vh - 291px);
-    background-image: url(../Angelina/images/bg4.png);
+    background-image: url(./images/bg4.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;
@@ -399,7 +404,7 @@ body{
 
 .collaborations{
     min-height: calc(100vh - 81px);
-    background-image: url(../Angelina/коллаб/111.png);
+    background-image: url(./коллаб/111.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;
