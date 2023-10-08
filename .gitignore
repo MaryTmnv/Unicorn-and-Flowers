@@ -148,4 +148,4 @@ cython_debug/
 
 staticfiles/
 db_data
-static
+# static
