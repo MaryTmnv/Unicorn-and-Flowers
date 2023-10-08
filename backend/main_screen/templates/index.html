@@ -1,3 +1,4 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Unicorn and Flowers</title>
 
-    <link rel="stylesheet" href="florist.css">
-    <link rel="stylesheet" href="florist-media.css">
+    <link rel="stylesheet" href="{% static 'florist.css' %}">
+    <link rel="stylesheet" href="{% static 'florist-media.css' %}">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -19,7 +20,7 @@
             <div class="inner-header">
                 <div class="logggo">
                     <a href="#" class="logo">
-                        <img class="logo1" src="images/bg2.svg" alt="logo">
+                        <img class="logo1" src="images/bg2.svg' %" alt="logo">
                     </a> 
                 </div>
                 
@@ -69,7 +70,7 @@
                 <div class="showcase-frame">
                     <div class="showcase-title">
                         <div class="showcase-img">
-                            <img class="showcase-image" src="./images/30.svg">
+                            <img class="showcase-image" src="{% static './images/30.svg' %}">
                         </div>
                         <div class="showcase-txt">
                             Выезд флориста
@@ -79,7 +80,7 @@
         
                     <div class="showcase-title">
                         <div class="showcase-img">
-                            <img class="showcase-image" src="./images/31.svg">
+                            <img class="showcase-image" src="{% static './images/31.svg' %}">
                         </div>
                         <div class="showcase-txt">
                             Оформление помещений
@@ -510,6 +511,6 @@
             </div>
         </div>
     </main>
-    <script src="./florist.js"></script>
+    <script src="{% static 'florist.js' %}"></script>
 </body>
 </html>

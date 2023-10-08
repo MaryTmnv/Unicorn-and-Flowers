@@ -1,3 +1,5 @@
+import os
+
 from pathlib import Path
 
 from environs import Env
@@ -7,9 +9,9 @@ env = Env()
 env.read_env()
 
 BASE_DIR = Path(__file__).resolve().parent.parent
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
-
-SECRET_KEY = 'django-insecure-^k20u7!r&1cax=$zn9h45f0*l8%&xt%)w)q=6od8uo6fbe8^0-'
+SECRET_KEY = env.str('SECRET_KEY', True)
 
 DEBUG = env.bool('DEBUG', True)
 
@@ -22,6 +24,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'main_screen',
 ]
 
 MIDDLEWARE = [
@@ -76,16 +79,20 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'ru'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Europe/Moscow'
 
 USE_I18N = True
-
-USE_L10N = True
 
 USE_TZ = True
 
 STATIC_URL = '/static/'
+
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, 'static'),
+]
+
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfolder')
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
