@@ -1,0 +1,1371 @@
+@media (max-width:4000px){
+    .showcase-frame{
+        margin-top: -20px;
+    }
+}
+
+@media (max-width:1856px){
+    .about-us-text{
+        padding-left: 70px;
+    }
+}
+
+@media (max-width:1832px){
+    .kontur{
+        margin-left: 1073px;
+    }
+}
+
+@media (max-width:1731px){
+    .container{
+        padding: 85px 35px;
+    }
+
+    .showcase-title{
+        margin-top: -50px;
+    }
+}
+
+@media (max-width:1728px){
+    .kira {
+        width: 184px;
+    }
+}
+
+@media (max-width:1722px){
+    .block-photo-sol{
+        width: 1600px;
+        margin-top: 7px;
+        margin-left: -60px;
+    }
+
+    .block-title-name-sol{
+        font-size: 16px;
+    }
+
+    .we-one{
+        margin-left: 5px;
+    }
+}
+
+@media (max-width:1719px){
+    .done-block-pages{
+        width: 370px;
+        height: 490px;
+    }
+
+    .block-photo{
+        width: 280px;
+    }
+
+    .block-title{
+        min-height: 66px;
+    }
+
+    .flowers-we-kontur{
+        margin-left: -514px;
+    }
+
+    .flowers-we-kontur-up{
+        margin-right: 36px;
+    }
+
+    .we-two{
+        margin-left: 232px;
+    }
+}
+
+@media (max-width:1703px){
+    .kontur {
+        margin-left: 981px;
+    }
+
+    .flora-text{
+        margin-left: -85px;
+    }
+
+    .flora-title{
+        margin-left: -85px;
+    }
+
+    .flora-set{
+        gap: 20px;
+        justify-content: center;
+    }
+
+    .flora-set-inner {
+        padding: 0px 0px;
+    }
+
+    .we-one {
+        margin-left: -99px;
+    }
+
+    .we-two{
+        margin-left: 79px;
+    }
+}
+
+@media (max-width:1688px){
+    .flowers-we-kontur {
+        margin-left: -378px;
+    }
+}
+
+@media (max-width:1664px){
+    .flowers-we-kontur {
+        margin-left: -369px;
+    }
+}
+
+
+@media (max-width:1645px){
+    .done-block-sol{
+        height: 430px;
+    }
+    
+    .block-photo-salt{
+        width: 1030px;
+    }
+
+    .block-photo-sol{
+        margin-left: -118px;
+    }
+
+    .block-txt-info-sol{
+        margin-left: -233px;
+    }
+
+    .block-titl{
+        padding: 0px 0px;
+    }
+
+    .block-title-name-sol{
+        margin-top: -16px;
+        margin-bottom: 0px;
+    }
+
+    .about-us-text{
+        width: 761px;
+    }
+}
+
+@media (max-width:1603px){
+    .done-block-pages{
+        width: 338px;
+        height: 460px;
+    }
+
+    .block-photo{
+        width: 258px;
+    }
+
+    .block-title{
+        min-height: 64px;
+    }
+
+    .done-block-pages{
+        width: 326px;
+        height: 463px;
+    }
+
+    .block-photo{
+        width: 240px;
+    }
+
+    .flora-img {
+        width: 360px;
+    }
+
+    .flora-block-title {
+        width: 360px;
+    }
+
+    .kontur{
+        width: 320px;
+        margin-top: -60px;
+        margin-left: 945px;
+    }
+
+    .flora-title{
+        font-size: 24px;
+    }
+
+    .we-two{
+        margin-left: 232px;
+    }
+
+    .flowers-we-kontur-up{
+        right: -31px;
+    }
+
+    .flowers-we-kontur{
+        margin-left: -511px;
+    }
+}
+
+@media (max-width:1585px){
+    .block-photo-salt {
+        width: 777px;
+    }
+
+    .block-title-name-sol{
+        font-size: 17px;
+        line-height: 20px;
+    }
+
+    .done-block-sol{
+        height: 370px;
+    }
+
+    .block-txt-info-sol {
+        margin-left: -320px;
+    }
+
+    .block-photo-sol {
+        margin-left: -140px;
+    }
+}
+
+@media (max-width:1568px){
+    .flowers-we-kontur{
+        margin-left: -518px;
+    }
+}
+
+@media (max-width:1508px){
+
+    .nav-item{
+        font-size: 13px;
+    }
+
+    .nav-item-number{
+        font-size: 16px;
+    }
+
+    .txt{
+        font-size: 80px;
+    }
+
+    .nav{
+        display: flex;
+        text-align: center;
+    }
+
+    .showcase-txt{
+        font-size: 20px;
+    }
+
+    .kontur{
+        margin-left: 895px;
+    }
+}
+
+@media (max-width:1499px){
+
+    .block-title{
+        padding: 0px 0px;
+    }
+
+    .block-title-name-sol{
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+    .block-title{
+        font-size: none;
+    }
+
+    .block-price-butt{
+        display: flex;
+        align-items: baseline;
+        justify-content: space-evenly;
+    }
+}
+
+@media (max-width:1492px){
+    .showcase-txt{
+        font-size: 20px;
+    }
+
+    .kira {
+        width: 170px;
+    }
+}
+
+@media (max-width:1453px){
+    .block-photo-sol {
+        margin-left: -164px;
+    }
+
+    .flora-title{
+        width: 900px;
+    }
+
+    .kontur{
+        margin-left: 744px;
+    }
+
+    .flora-img {
+        width: 336px;
+        height: 200px;
+    }
+
+    .flora-block-title{
+        width: 336px;
+    }
+}
+
+@media (max-width:1435px){
+    .showcase-title{
+        margin-left: 45px;
+    }
+
+    .done-block-pages{
+        width: 267px;
+        height: 387px;
+    }
+
+    .block-photo{
+        width: 190px;
+    }
+
+    .block-titl{
+        font-size: 14px;
+        min-height: 56px;
+        margin-top: 3px;
+    }
+}
+
+@media (max-width:1412px){
+    .we-two {
+        margin-left: 131px;
+    }
+
+    .flowers-we-kontur {
+        margin-left: -396px;
+        width: 273px;
+    }
+
+    .about-us-text{
+        font-size: 22px;
+        padding-left: 30px;
+        width: 597px;
+    }
+
+    .flowers-we-kontur-up{
+        width: 256px;
+    }
+
+    .we-one{
+        grid-template-columns: 1fr 5fr;
+    }
+
+}
+
+@media (max-width:1400px){
+    .block-photo-salt {
+        width: 526px;
+    }
+
+    .block-txt-info-sol {
+        margin-left: -474px;
+    }
+
+    .done-block-sol {
+        height: 321px;
+    }
+
+    .block-photo-sol {
+        margin-left: -189px;
+        margin-top: 46px;
+    }
+}
+
+@media (max-width:1307px){
+    .flora-title{
+        font-size: 18px;
+    }
+
+    .flora-img {
+        width: 305px;
+        height: 176px;
+    }
+
+    .flora-block-title {
+        width: 305px;
+    }
+
+    .kontur {
+        margin-left: 640px;
+    }
+}
+
+@media (max-width:1279px){
+    .block-txt-info-sol{
+        margin-left: -412px;
+    }
+}
+
+@media (max-width:1274px){
+    .showcase-title{
+        margin-left: 25px;
+    }
+}
+
+@media (max-width:1243px){
+    .inner-header{
+        display:unset;
+    }
+
+    .nav{
+        display: block;
+    }
+
+    .logggo{
+        text-align: center;
+    }
+
+    .number{
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .collaborations{
+        min-height: calc(86vh - 81px);
+    }
+
+    .we-one{
+        grid-template-columns: 1fr 4fr;
+    }
+}
+
+@media (max-width:1230px){
+    .done-block-sol {
+        border-radius: 20px;
+        display: block;
+        text-align: center;
+    }
+
+    .block-photo-salt{
+        margin-left: 0px;
+    }
+
+    .block-txt-info-sol{
+        margin-left: 0px;
+        text-align: center;
+    }
+
+    .block-photo-sol{
+        margin-left: 60%;
+        margin-top: 0px;
+    }
+
+    .done-block-sol {
+        height: 600px;
+    }
+
+    .block-title-name-sol {
+        margin-bottom: 15px;
+    }
+}
+
+@media (max-width:1216px){
+    .flora-text {
+        margin-left: -150px;
+    }
+
+    .flora-title {
+        margin-left: -150px;
+    }
+
+    .kontur {
+        margin-left: 580px;
+    }
+
+    .flora-img {
+        width: 278px;
+        height: 164px;
+    }
+
+    .flora-block-title {
+        width: 278px;
+    }
+
+    .flora-price{
+        font-size: 26px;
+    }
+
+    .footer-text {
+        grid-template-columns: repeat(7,125px);
+    }
+}
+
+
+@media (max-width:1185px){
+    .done-pages{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .done-block-pages{
+        width: 322px;
+        height: 428px;
+    }
+
+    .block-photo{
+        width: 240px;
+    }
+
+    .block-order{
+        padding: 9px 33px;
+    }
+}
+
+@media (max-width:1152px){
+    .block-photo-sol{
+        margin-left: 55%;
+    }
+}
+
+
+@media (max-width:1137px){
+    .showcase-title{
+        margin-left: 13px;
+    }
+
+    .kontur{
+        width: 245px;
+        margin-top: -35px;
+    }
+}
+
+@media (max-width:1120px){
+    .we-two {
+        margin-left: 2px;
+    }
+
+    .flowers-we-kontur {
+        margin-left: -277px;
+    }
+}
+
+@media (max-width:1096px){
+    .we-one {
+        grid-template-columns: 1fr 3fr;
+    }
+
+    .about-us-text {
+        width: 520px;
+    }
+
+    .we-two {
+        grid-template-columns: 1fr 3fr;
+    }
+
+    .about-us-images-gelya {
+        width: 167px;
+    }
+}
+
+@media (max-width:1091px){
+    .container{
+        padding: 75px 48px;
+    }
+
+    .showcase{
+        height: 200px;
+    }
+
+    .showcase-title{
+        display: inline-block;
+        text-align: center;
+    }
+
+    .showcase-img{
+        text-align: center;
+        display: inline-flex;
+    }
+
+    .showcase-desk{
+        padding-top: 0;
+    }
+
+    .showcase-header{
+        padding-top: 25px;
+    }
+
+    .done-block-pages{
+        width: 277px;
+        height: 387px;
+    }
+
+    .block-photo{
+        width: 200px;
+    }
+
+    .done-text{
+        font-size: 30px;
+    }
+
+    .done-text-two{
+        font-size: 30px;
+    }
+
+    .done-block-sol{
+        height: 680px;
+    }
+
+    .block-photo-sol{
+        text-align: center;
+        display: inline-flex;
+        margin-left: 0px;
+    }
+
+    .block-photo-salt{
+        width: auto;
+    }
+
+    .block-txt-info-sol{
+        margin-top: -35px;
+    }
+}
+
+@media (max-width:1062px){
+    .flora-title{ 
+        width: 700px;
+    }
+
+    .kontur {
+        margin-left: 484px;
+    }
+}
+
+@media (max-width:1041px){
+    .showcase-frame{
+        margin-top: 0px;
+    }
+
+    .flowers-we-kontur-up {
+        width: 188px;
+    }
+
+    .flowers-we-kontur {
+        margin-left: -257px;
+        width: 190px;
+    }
+
+    .we-two{
+        margin-bottom: 8px;
+    }
+
+    .we-one {
+        grid-template-columns: 174px 3fr;
+    }
+
+    .about-us-text {
+        width: 502px;
+    }
+}
+
+@media (max-width:989px){
+    .nav{
+        font-size: 10px;
+    }
+
+    .nav-item{
+        padding-right: 80px;
+    }
+
+    .done-block-pages{
+        width: 238px;
+        height: 370px;
+    }
+
+    .block-photo{
+        width: 180px;
+    }
+}
+
+@media (max-width:974px){
+    .collaborations{
+       min-height: calc(39vh - 81px); 
+    }
+
+    .flora-title{
+        margin-bottom: 46px;
+    }
+
+    .flora-img {
+        width: 241px;
+        height: 153px;
+    }
+
+    .flora-block-title {
+        width: 241px;
+    }
+
+    .kontur{
+        width: 197px;
+        margin-left: 471px;
+    }
+}
+
+@media (max-width:925px){
+    .done-block-sol {
+        height: 610px;
+    }
+
+    .footer-text {
+        grid-template-columns: repeat(7,103px);
+    }
+
+    .footer-txt {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+}
+
+@media (max-width:908px){
+    .about-us-text{
+        font-size: 18px;
+        width: 416px;
+    }
+}
+
+@media (max-width:890px){
+    .flora-set {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .flora-img {
+        width: 400px;
+        height: 260px;
+    }
+
+    .flora-block-title {
+        width: 400px;
+    }
+
+    .flora-set {
+        gap: 55px;
+    }
+
+    .kontur {
+        width: 138px;
+        margin-left: 260px;
+        margin-top: -48px;
+    }
+}
+
+
+@media (max-width:874px){
+    .done-pages{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .done-block-pages{
+        width: 300px;
+        height: 412px;
+    }
+
+    .block-photo{
+        width: 220px;
+    }
+}
+
+@media (max-width:846px){
+    .done-text{
+        margin-top: -50px;
+        font-size: 20px;
+        margin-bottom: 26px;
+    }
+
+    .done-text-two{
+        margin-top: -137px;
+        font-size: 20px;
+        margin-bottom: 26px;
+    }
+}
+
+@media (max-width:831px){
+    .nav-item{
+        padding-right: 40px;
+    }
+
+    .showcase-txt{
+        font-size: 15px;
+    }
+
+    .showcase-desk{
+        font-size: 12px;
+    }
+
+    .showcase-img{
+        width: 50px;
+    }
+    
+    .showcase{
+        height: 150px;
+    }
+
+    .we-one {
+        margin-left: -133px;
+    }
+
+    .we-two {
+        margin-left: -53px;
+    }
+
+    .flowers-we-kontur {
+        margin-left: -197px;
+    }
+}
+
+@media (max-width:792px){
+    .block-txt-info-sol{
+        margin-top: -15px;
+        padding: 0px 5px;
+    }
+
+    .done-block-sol {
+        height: 577px;
+    }
+
+    .flora-title {
+        width: 433px;
+    }
+
+    .flora-text{
+        font-size: 32px;
+    }
+
+    .kontur{
+        margin-left: 185px;
+    }
+}
+
+@media (max-width:765px){
+    .about-us-images-gelya {
+        width: 120px;
+    }
+
+    .kira {
+        width: 125px;
+    }
+
+    .flowers-we-kontur {
+        margin-left: -184px;
+        width: 121px;
+    }
+
+    .flowers-we-kontur-up {
+        width: 129px;
+    }
+
+    .we-one{
+        grid-template-columns: 128px 3fr;
+    }
+
+    .about-us-text{
+        width: 375px;
+    }
+
+    .footer-text {
+        grid-template-columns: repeat(7,74px);
+    }
+
+    .footer-txt {
+        font-size: 8px;
+    }
+}
+
+@media (max-width:709px){
+    .done-block-pages{
+        width: 238px;
+        height: 370px;
+    }
+
+    .block-photo{
+        width: 175px;
+    }
+
+    .block-order{
+        font-size: 18px;
+        padding: 8px 28px;
+    }
+}
+
+@media (max-width:700px){
+    .nav-item{
+        padding-right: 40px;
+    }
+
+    .txt{
+        font-size: 60px;
+        line-height: 80px;
+    }
+
+    .showcase{
+        height: 180px;
+    }
+
+    .collabs-txt{
+        font-size: 24px;
+    }
+}
+
+@media (max-width:672px){
+    .we-one {
+        margin-left: -186px;
+    }
+
+    .we-two {
+        margin-left: -107px;
+    }
+
+    .flowers-we-kontur {
+        margin-left: -133px;
+    }
+}
+
+
+@media (max-width:660px){
+    .showcase-title{
+        margin-left: -14px;
+        margin-top: -60px;
+    }
+
+    .showcase-header{
+        font-size: 24px;
+    }
+
+    .showcase-txt{
+        font-size: 12px;
+    }
+
+    .showcase-desk{
+        font-size: 10px;
+    }
+
+    .showcase-img{
+        width: 35px;
+    }
+
+    .showcase{
+        height: 150px;
+    }
+}
+
+@media (max-width:630px){
+    .flora-text{
+        font-size: 30px;
+    }
+
+    .kontur{
+        margin-left: 154px;
+        margin-top: -38px;
+        width: 113px;
+    }
+}
+
+@media (max-width:602px){
+    .block-titl{
+        min-height: 50 px;
+    }
+
+    .about-us-text {
+        width: 277px;
+    }
+}
+
+@media (max-width:597px){
+    .done-text{
+        font-size: 15px;
+        margin-bottom: 26px;
+    }
+
+    .done-text-two{
+        font-size: 15px;
+        margin-bottom: 26px;
+    }
+}
+
+@media (max-width:589px){
+    .done-block-pages{
+        width: 204px;
+        height: 338px;
+    }
+
+    .block-photo{
+        width: 145px;
+    }
+
+    .block-titl{
+        min-height: 71px;
+    }
+
+    .kontur{
+        margin-left: 9px;
+        width: 149px;
+    }
+
+    .about-text{
+        margin-bottom: 18px;
+        font-size: 30px;
+        text-align: center;
+        margin-left: -178px;
+    }
+
+    .about-us-images-gelya {
+        width: 91px;
+        margin-left: 34px;
+    }
+
+    .kira {
+        width: 95px;
+        margin-left: -5px;
+    }
+}
+
+@media (max-width:539px){
+    .showcase-txt{
+        font-size: 9px;
+    }
+
+    .show-desk{
+        font-size: 7px;
+    }
+
+    .showcase-img{
+        width: 25px;
+    }
+
+    .showcase-header{
+        font-size: 18px;
+        padding-top: 11px;
+    }
+
+    .showcase{
+        height: 115px;
+    }
+
+}  
+
+@media (max-width:521px){
+    .done-block-pages{
+        width: 350px;
+        height: 475px;
+    }
+
+    .block-photo{
+        width: 260px;
+    }
+
+    .block-titl{
+        min-height: 83px;
+        font-size: 20px;
+    }
+
+    .done-pages{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .block-order{
+        font-size: 22px;
+        padding: 9px 33px;
+    }
+
+    .flora-title {
+        width: 368px;
+    }
+
+    .container-2 {
+        padding: 44px 197px;
+    }
+    
+    .container-3 {
+        padding: 44px 197px;
+    }
+
+    .flora-set {
+        justify-content: center;
+    }
+
+    .flowers-we-kontur {
+        margin-left: -113px;
+        margin-top: 174px;
+    }
+
+    .we-two {
+        margin-top: 16px;
+    }
+
+    .flowers-we-kontur-up {
+        width: 111px;
+    }
+
+    .about-us-text {
+        font-size: 15px;
+    }
+
+    .footer-text {
+        grid-template-columns: repeat(7,54px);
+    }
+}
+
+@media (max-width:495px){
+    .txt{
+        font-size: 40px;
+        line-height: 60px;
+        margin-top: 140px;
+    }
+
+    .txt-button{
+        font-size: 8px;
+        padding: 12px 6px;
+    }
+}
+
+@media (max-width:482px){
+    .block-title-name-sol{
+        margin-top: -22px;
+    }
+}
+
+@media (max-width:473px){
+    .about-us-text{
+        padding-left: 14px;
+        width: 214px;
+    }
+
+    .we-one {
+        margin-left: -172px;
+    }
+    
+    .we-two {
+        margin-left: -111px;
+    }
+
+    .flowers-we-kontur {
+        margin-left: -91px;
+        width: 94px;
+    }
+}
+
+@media (max-width:460px){
+    .nav-item{
+        padding-right: 20px;
+    }
+
+    .container{
+        padding: 70px 0px;
+    }
+
+    .showcase-title{
+        margin-left: -4px;
+    }
+}
+
+@media (max-width:456px){
+    .done-block-sol {
+        width: 80%;
+        margin-left: 11%;
+        height: 650px;
+    }
+
+    .block-title-name-sol {
+        margin-top: -1px;
+    }
+
+    .flora-block-title {
+        width: 288px;
+    }
+
+    .flora-img{
+        height: 179px;
+    }
+
+    .flora-title {
+        width: 294px;
+    }
+
+    .flora-text {
+        font-size: 26px;
+    }
+
+    .footer-txt {
+        line-height: 10px;
+    }
+}
+
+@media (max-width:403px){
+    .done-block-pages{
+        width: 270px;
+        height: 415px;
+    }
+
+    .block-photo{
+        width: 200px;
+    }
+
+    .block-titl{
+        min-height: 83px;
+        font-size: 20px;
+    }
+}
+
+@media (max-width:400px){
+    .txt-button{
+        font-size: 5px;
+        padding: 12px 6px;
+    }
+
+    .about-us-text {
+        width: 183px;
+    }
+
+    .footer-text {
+        grid-template-columns: repeat(7,53px);
+    }   
+
+    .footer-soc{
+        padding-bottom: 20px;
+        padding-top: 10px;
+    }
+
+    .footer-txt {
+        font-size: 5px;
+    }
+
+    .footer-text {
+        grid-template-columns: repeat(7,36px);
+    }
+
+    .container-2 {
+        padding: 44px 130px;
+    }
+
+    .container-3 {
+        padding: 42px 140px;
+    }
+
+    .flowers-we-kontur {
+        margin-left: -66px;
+    }
+
+    .we-one {
+        margin-left: -189px;
+    }
+
+    .we-two {
+        margin-left: -105px;
+    }
+
+    .kontur {
+        width: 107px;
+        margin-top: -30px;
+        margin-left: 20px;
+    }
+
+    .flora-text {
+        margin-left: -109px;
+    }
+
+    .flora-set {
+        margin-left: -29px;
+    }
+
+    .flora-title {
+        margin-left: -102px;
+    }
+
+    .we-one {
+        margin-left: -134px;
+    }
+
+    .we-two {
+        margin-left: -48px;
+    }
+}
+
+@media (max-width:380px){
+    .container{
+        padding: 65px 1px;
+    }
+
+    .flora-block-title {
+        width: 240px;
+    }
+
+    .about-us-images-gelya {
+        width: 71px;
+        margin-left: 58px;
+    }
+
+    .kira {
+        width: 71px;
+        margin-left: -28px;
+    }
+}
+
+@media (max-width:345px){
+    .we-one {
+        margin-left: -163px;
+    }
+
+    .we-two {
+        margin-left: -77px;
+    }
+
+    .flowers-we-kontur {
+        margin-left: -69px;
+    }
+
+    .flora-title {
+        width: 221px;
+    }
+
+    .showcase-txt {
+        font-size: 7px;
+    }
+}
+
+@media (max-width:331px){
+    .flora-title {
+        margin-left: -111px;
+    }
+
+    .container-2 {
+        padding: 42px 152px;
+    }
+
+    .flowers-we-kontur {
+        margin-left: -66px;
+    }
+
+    .we-one {
+        margin-left: -189px;
+    }
+
+    .we-two {
+        margin-left: -105px;
+    }
+
+    .flora-set {
+        margin-left: -16px;
+    }
+}
+
+@media (max-width:316px){
+    .done-block-sol {
+        height: 680px;
+    }
+
+    .block-price {
+        font-size: 15px;
+    }
+}
