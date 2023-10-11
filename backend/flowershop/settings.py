@@ -1,4 +1,5 @@
 import os
+import dj_database_url
 
 from pathlib import Path
 
@@ -16,6 +17,8 @@ SECRET_KEY = env.str('SECRET_KEY', True)
 DEBUG = env.bool('DEBUG', True)
 
 ALLOWED_HOSTS = env.list('ALLOWED_HOSTS', ['127.0.0.1', 'localhost'])
+
+POSTGRES_DB_URL = env.str('POSTGRES_DB_URL')
 
 INSTALLED_APPS = [
     'django.contrib.admin',
@@ -58,10 +61,7 @@ TEMPLATES = [
 WSGI_APPLICATION = 'flowershop.wsgi.application'
 
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
-    }
+   'default': dj_database_url.config(default=POSTGRES_DB_URL)
 }
 
 AUTH_PASSWORD_VALIDATORS = [
@@ -92,7 +92,5 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static'),
 ]
-
-STATIC_ROOT = os.path.join(BASE_DIR, 'staticfolder')
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
