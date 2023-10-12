@@ -13,9 +13,10 @@ services:
     restart: always
     build: backend
     command:
-      bash entrypoint.prod.sh
+      bash entrypoint.sh
     volumes:
-      - ./static:/opt/app/staticfiles
+      - ./backend:/opt/app
+      - ./static:/opt/app/static
       - ./media:/opt/app/media
     env_file:
       - .env
