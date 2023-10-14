@@ -323,7 +323,7 @@
 
     .done-block-pages{
         width: 267px;
-        height: 387px;
+        height: 375px;
     }
 
     .block-photo{
@@ -332,8 +332,7 @@
 
     .block-titl{
         font-size: 14px;
-        min-height: 56px;
-        margin-top: 3px;
+        min-height: 34px;
     }
 }
 
@@ -791,8 +790,12 @@
 }
 
 @media (max-width:831px){
+    .container {
+        padding: 58px 48px;
+    }
+
     .nav-item{
-        padding-right: 40px;
+        padding-right: 20px;
     }
 
     .showcase-txt{
@@ -885,7 +888,7 @@
 @media (max-width:709px){
     .done-block-pages{
         width: 238px;
-        height: 370px;
+        height: 345px;
     }
 
     .block-photo{
@@ -899,8 +902,12 @@
 }
 
 @media (max-width:700px){
+    .container {
+        padding: 78px 48px;
+    }
+
     .nav-item{
-        padding-right: 40px;
+        padding-right: 12px;
     }
 
     .txt{
@@ -969,6 +976,14 @@
         margin-top: -38px;
         width: 113px;
     }
+
+    .ikonki-img{
+        width: 15px;
+    }
+
+    .iv {
+        padding-left: 7px;
+    }
 }
 
 @media (max-width:602px){
@@ -996,15 +1011,11 @@
 @media (max-width:589px){
     .done-block-pages{
         width: 204px;
-        height: 338px;
+        height: 314px;
     }
 
     .block-photo{
         width: 145px;
-    }
-
-    .block-titl{
-        min-height: 71px;
     }
 
     .kontur{
@@ -1055,9 +1066,13 @@
 }  
 
 @media (max-width:521px){
+    .showcase{
+        height: 97px;
+    }
+
     .done-block-pages{
-        width: 350px;
-        height: 475px;
+        width: 372px;
+        height: 460px;
     }
 
     .block-photo{
@@ -1065,7 +1080,7 @@
     }
 
     .block-titl{
-        min-height: 83px;
+        min-height: 63px;
         font-size: 20px;
     }
 
@@ -1097,7 +1112,7 @@
 
     .flowers-we-kontur {
         margin-left: -113px;
-        margin-top: 174px;
+        margin-top: 118px;
     }
 
     .we-two {
@@ -1137,6 +1152,10 @@
 }
 
 @media (max-width:473px){
+    .nav-item{
+        padding-right: 7px;
+    }
+    
     .about-us-text{
         padding-left: 14px;
         width: 214px;
@@ -1151,14 +1170,14 @@
     }
 
     .flowers-we-kontur {
-        margin-left: -91px;
+        margin-left: -104px;
         width: 94px;
     }
 }
 
 @media (max-width:460px){
     .nav-item{
-        padding-right: 20px;
+        padding-right: 0px;
     }
 
     .container{
@@ -1178,7 +1197,7 @@
     }
 
     .block-title-name-sol {
-        margin-top: -1px;
+        margin-top: 18px;
     }
 
     .flora-block-title {
@@ -1205,16 +1224,15 @@
 @media (max-width:403px){
     .done-block-pages{
         width: 270px;
-        height: 415px;
+        height: 401px;
     }
 
     .block-photo{
         width: 200px;
     }
 
-    .block-titl{
-        min-height: 83px;
-        font-size: 20px;
+    .block-titl {
+        padding: 0px 5px;
     }
 }
 
@@ -1290,6 +1308,10 @@
     .we-two {
         margin-left: -48px;
     }
+
+    .flowers-we-kontur {
+        margin-left: -96px;
+    }
 }
 
 @media (max-width:380px){
@@ -1309,6 +1331,10 @@
     .kira {
         width: 71px;
         margin-left: -28px;
+    }
+
+    .flowers-we-kontur {
+        margin-top: 160px;
     }
 }
 
@@ -1363,9 +1389,5 @@
 @media (max-width:316px){
     .done-block-sol {
         height: 680px;
-    }
-
-    .block-price {
-        font-size: 15px;
     }
 }
